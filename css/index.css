@@ -180,12 +180,6 @@ ul.info-ul > li {
   font-size: 1rem;
 }
 
-.generate-image-button:hover{
-  border: 1px solid #ff96ad;
-  color: #ff96ad;
-  background-color: #17181c;
-}
-
 .github-corner {
   position: absolute;
   top: 0;
